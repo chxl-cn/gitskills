@@ -1,0 +1,2 @@
+# gitduplicate
+git pulicate repository
