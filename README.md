@@ -2,4 +2,4 @@
 study git
 master
 dEvelop branch
-dEvelop
+develop
